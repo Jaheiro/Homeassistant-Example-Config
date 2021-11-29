@@ -1,4 +1,4 @@
-# Homeassistant Template Example By Nicolò Steffè
+#a Homeassistant Template Example By Nicolò Steffè
 
 Home assistant Configuration (YAMLs)
 
